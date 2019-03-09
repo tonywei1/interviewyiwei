@@ -1,0 +1,109 @@
+body{
+	background-color: pink;
+	margin:0;
+	padding:0;
+	font-family: 'Gorditas', cursive;
+	width: 2000px;
+}
+
+.stayPut{
+	position:fixed;
+	width:100%;
+}
+h3.topHeading{
+	font-family: "Sarabun", sans-serif;
+	color:rgb(200,0,0);
+	background-color: rgb(22,36,135); 
+	padding-top: 5%;
+	text-align: center;
+	font-size:10.0em;
+	margin:0;
+}
+
+div.pics{
+	text-align:center;
+}
+div.menuBar {
+	width:100%;
+	margin:0;
+	/* background-color: dodgerblue; */
+	float:left;
+}
+
+div.menuB {
+	float:left;
+	width:18%;
+	color:orange;
+	font-size:3.0em;
+}
+.pagematerial {
+	float:none;
+}
+p.ptext {
+	font-size:1.76em;
+	color:blue;
+	text-align: center;
+
+}
+p {
+	margin-top: 40px;
+	text-align:center;
+	font-size:60px;
+	-webkit-text-stroke-width:1px;
+	-webkit-text-stroke-color:black;
+}
+
+a#homeLink:link{
+	text-decoration:none;
+	color:rgb(200,0,0);
+	-webkit-text-stroke-width:1px;
+	-webkit-text-stroke-color:white;
+	font-size:1.0em;
+}
+a#homeLink:visited{
+	text-decoration:none;
+	color:rgb(200,0,0);
+	-webkit-text-stroke-width:1px;
+	-webkit-text-stroke-color:white;
+	font-size:1.0em;
+}
+
+a#homeLink:hover{
+	text-decoration:none;
+	color:rgb(200,0,0);
+	-webkit-text-stroke-width:1px;
+	-webkit-text=stroke-color:white;
+	font-size:1.0em;
+}
+
+a#homeLink:active{
+	text-decoration:none;
+	color:rgb(255,0,0);
+	-webkit-text-stroke-width:1px;
+	-webkit-text-stroke-color:white;
+	font-size:1.0;
+}
+ul{
+	font-size:50px;
+	margin-left:35%;
+	-webkit-text-stroke-width:1px;
+	-webkit-text-stroke-color:black;
+	margin-top: 0
+	background color: rgba(200, 76, 75, 0.4);
+	border-radius:15px 50px 30px 5px;
+	text-align:center;
+}
+h1 {
+	margin-top:0px;
+	padding-top:30px;
+	paddin-bottom:50px;
+	background:#dbdbdb;
+	font-family: 'Gorditas', cursive;
+	color:red;
+	font-size:60pt;
+	text-align:center;
+	-webkit-text-stroke-width:2px;
+	-webkit-text-stroke-color:black;
+	width:100%;
+	border-radius: 30px 72px 130px 131px	
+}
